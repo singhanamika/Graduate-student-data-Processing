@@ -1,0 +1,24 @@
+#label{
+	width:15%;
+}
+
+#table1{
+	table-layout: fixed;
+	word-break: normal;
+}
+
+tbody.drill th{
+	padding-left: 2% !important;
+}
+
+tbody.drill2 th{
+	padding-left: 4% !important;
+}
+
+tbody.drill3 th{
+	padding-left: 6% !important;
+}
+
+#openButton{
+	margin-right: 5px;
+}
